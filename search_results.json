@@ -1,0 +1,1794 @@
+[
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 208,
+        "span_end": 215,
+        "sentence": "Al fine di conseguire il razionale sfruttamento del suolo e di stabilire equi rapporti sociali, la legge impone obblighi e vincoli alla proprietà terriera privata, fissa limiti alla sua estensione secondo le regioni e le zone agrarie, promuove e impone la bonifica delle terre, la trasformazione del latifondo e la ricostituzione delle unità produttive; aiuta la piccola e la media proprietà2."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 69,
+        "span_end": 75,
+        "sentence": "A tale ne è istituita una circoscrizione Estero per l’elezione delle Camere, alla quale sono assegnati seggi nel numero stabilito da norma costituzionale e secondo criteri determinati dalla legge."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 223,
+        "span_end": 229,
+        "sentence": "Tutti i cittadini hanno il dovere di essere fedeli alla hanno il dovere di adempierle con disciplina e onore, prestando giuramento nei casi stabiliti dalla ORDINAMENTO DELLA REPUBBLICA TITOLO I IL PARLAMENTO SEZIONE I – Le Camere Art."
+    },
+    {
+        "iri": "parlamento",
+        "label": "Parlamento",
+        "span_start": 197,
+        "span_end": 207,
+        "sentence": "Tutti i cittadini hanno il dovere di essere fedeli alla hanno il dovere di adempierle con disciplina e onore, prestando giuramento nei casi stabiliti dalla ORDINAMENTO DELLA REPUBBLICA TITOLO I IL PARLAMENTO SEZIONE I – Le Camere Art."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camera dei Deputati",
+        "span_start": 31,
+        "span_end": 50,
+        "sentence": "Il Parlamento si compone della Camera dei deputati e del Senato della Repubblica."
+    },
+    {
+        "iri": "senato_repubblica",
+        "label": "Senato della Repubblica",
+        "span_start": 57,
+        "span_end": 80,
+        "sentence": "Il Parlamento si compone della Camera dei deputati e del Senato della Repubblica."
+    },
+    {
+        "iri": "parlamento",
+        "label": "Parlamento",
+        "span_start": 3,
+        "span_end": 13,
+        "sentence": "Il Parlamento si compone della Camera dei deputati e del Senato della Repubblica."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 64,
+        "span_end": 70,
+        "sentence": "Il Parlamento si riunisce in seduta comune dei membri delle due Camere nei soli casi stabiliti dalla Costituzione."
+    },
+    {
+        "iri": "parlamento",
+        "label": "Parlamento",
+        "span_start": 3,
+        "span_end": 13,
+        "sentence": "Il Parlamento si riunisce in seduta comune dei membri delle due Camere nei soli casi stabiliti dalla Costituzione."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camera dei Deputati",
+        "span_start": 7,
+        "span_end": 26,
+        "sentence": "(*) La Camera dei deputati è eletta a sparagio universale e diretto."
+    },
+    {
+        "iri": "senato_repubblica",
+        "label": "Senato della Repubblica",
+        "span_start": 7,
+        "span_end": 30,
+        "sentence": "(*) Il Senato della Repubblica è eletto a base regionale, salvi i seggi assegnati alla circoscrizione Estero."
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 8,
+        "span_end": 15,
+        "sentence": "Nessuna Regione o Provincia autonoma può avere un numero di senatori inferiore a tre; il Mo lise ne ha due, la Valle d’Aosta uno."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 33,
+        "span_end": 40,
+        "sentence": "La ripartizione dei seggi tra le Regioni o le Pro vince autonome, previa applicazione delle disposizioni del precedente comma, si e Betta in proporzione alla loro popolazione, quale risulta dall’ultimo censimento generale, sulla base dei quo art."
+    },
+    {
+        "iri": "presidente_repubblica",
+        "label": "Presidente della Repubblica",
+        "span_start": 65,
+        "span_end": 92,
+        "sentence": "(**) È senatore di diritto e a vita, salvo rinunzia, chi è stato Presidente della Repubblica."
+    },
+    {
+        "iri": "presidente_repubblica",
+        "label": "Presidente della Repubblica",
+        "span_start": 3,
+        "span_end": 30,
+        "sentence": "Il Presidente della Repubblica può nominare senatori a vita cittadini che hanno illustrato la Patria per altissimi meriti nel campo sociale, scientifico, artistico e letterario."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camera dei Deputati",
+        "span_start": 9,
+        "span_end": 28,
+        "sentence": "(***) La Camera dei deputati e il Senato della Repubblica sono eletti per cinque anni."
+    },
+    {
+        "iri": "senato_repubblica",
+        "label": "Senato della Repubblica",
+        "span_start": 34,
+        "span_end": 57,
+        "sentence": "(***) La Camera dei deputati e il Senato della Repubblica sono eletti per cinque anni."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camera",
+        "span_start": 22,
+        "span_end": 28,
+        "sentence": "La durata di ciascuna Camera non può essere prorogata se non per legge e soltanto in caso di Art."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 24,
+        "span_end": 30,
+        "sentence": "Le elezioni delle nuove Camere hanno luogo entro settanta giorni dalla ne delle precedenti."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 34,
+        "span_end": 40,
+        "sentence": "Finché non siano riunite le nuove Camere sono prorogati i poteri delle precedenti."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 3,
+        "span_end": 9,
+        "sentence": "Le Camere si riuniscono di diritto il primo giorno non festivo di febbraio e di ottobre."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camera",
+        "span_start": 9,
+        "span_end": 15,
+        "sentence": "Ciascuna Camera può essere convocata in via stra ordinaria per iniziativa del suo Presidente o del Presidente della Repubblica o di un terzo dei suoi componenti."
+    },
+    {
+        "iri": "presidente_repubblica",
+        "label": "Presidente della Repubblica",
+        "span_start": 99,
+        "span_end": 126,
+        "sentence": "Ciascuna Camera può essere convocata in via stra ordinaria per iniziativa del suo Presidente o del Presidente della Repubblica o di un terzo dei suoi componenti."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camera",
+        "span_start": 9,
+        "span_end": 15,
+        "sentence": "Ciascuna Camera elegge fra i suoi componenti il Presidente e l’U CIO di presidenza."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camera dei Deputati",
+        "span_start": 107,
+        "span_end": 126,
+        "sentence": "Quando il Parlamento si riunisce in seduta comune, il Presidente e l’U CIO di presidenza sono quelli della Camera dei deputati."
+    },
+    {
+        "iri": "parlamento",
+        "label": "Parlamento",
+        "span_start": 10,
+        "span_end": 20,
+        "sentence": "Quando il Parlamento si riunisce in seduta comune, il Presidente e l’U CIO di presidenza sono quelli della Camera dei deputati."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camera",
+        "span_start": 9,
+        "span_end": 15,
+        "sentence": "Ciascuna Camera adotta il proprio regolamento a Le sedute sono pubbliche; tuttavia ciascuna delle due Camere e il Parlamento a Camere riunite possono deliberare di adunarsi in seduta segreta."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 102,
+        "span_end": 108,
+        "sentence": "Ciascuna Camera adotta il proprio regolamento a Le sedute sono pubbliche; tuttavia ciascuna delle due Camere e il Parlamento a Camere riunite possono deliberare di adunarsi in seduta segreta."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 127,
+        "span_end": 133,
+        "sentence": "Ciascuna Camera adotta il proprio regolamento a Le sedute sono pubbliche; tuttavia ciascuna delle due Camere e il Parlamento a Camere riunite possono deliberare di adunarsi in seduta segreta."
+    },
+    {
+        "iri": "parlamento",
+        "label": "Parlamento",
+        "span_start": 114,
+        "span_end": 124,
+        "sentence": "Ciascuna Camera adotta il proprio regolamento a Le sedute sono pubbliche; tuttavia ciascuna delle due Camere e il Parlamento a Camere riunite possono deliberare di adunarsi in seduta segreta."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camera",
+        "span_start": 29,
+        "span_end": 35,
+        "sentence": "Le deliberazioni di ciascuna Camera e del Parla mento non sono valide se non è presente la maggioranza dei loro componenti, e se non sono adottate a maggioranza dei presenti, salvo che la Costituzione prescriva una maggioranza speciale."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 53,
+        "span_end": 59,
+        "sentence": "I membri del Governo, anche se non fanno parte delle Camere, hanno diritto, e se richiesti obbligo, di assistere alle sedute."
+    },
+    {
+        "iri": "governo",
+        "label": "Governo",
+        "span_start": 13,
+        "span_end": 20,
+        "sentence": "I membri del Governo, anche se non fanno parte delle Camere, hanno diritto, e se richiesti obbligo, di assistere alle sedute."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 52,
+        "span_end": 58,
+        "sentence": "Nessuno può appartenere contemporaneamente alle due Camere."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camera",
+        "span_start": 9,
+        "span_end": 15,
+        "sentence": "Ciascuna Camera giudica dei titoli di ammissione dei suoi componenti e delle cause sopraggiunte di ineleggibilità e di incompatibilità5."
+    },
+    {
+        "iri": "parlamento",
+        "label": "Parlamento",
+        "span_start": 16,
+        "span_end": 26,
+        "sentence": "Ogni membro del Parlamento rappresenta la Nazione ed esercita le sue funzioni senza vincolo di Art."
+    },
+    {
+        "iri": "parlamento",
+        "label": "Parlamento",
+        "span_start": 17,
+        "span_end": 27,
+        "sentence": "(*) I membri del Parlamento non possono essere chiamati a rispondere delle opinioni espresse e dei voti dati nell’esercizio delle loro funzioni."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camera",
+        "span_start": 27,
+        "span_end": 33,
+        "sentence": "Senza autorizzazione della Camera alla quale appartiene, nessun membro del Parlamento può essere sottoposto a perquisizione personale o domiciliare, né può essere arrestato o altrimenti privato della libertà personale, o mantenuto in detenzione, salvo che in esecuzione di una sentenza irrevocabile di con danna, ovvero se sia colto nell’atto di commettere un delitto per il quale è previsto l’arresto obbligatorio in aranza."
+    },
+    {
+        "iri": "parlamento",
+        "label": "Parlamento",
+        "span_start": 75,
+        "span_end": 85,
+        "sentence": "Senza autorizzazione della Camera alla quale appartiene, nessun membro del Parlamento può essere sottoposto a perquisizione personale o domiciliare, né può essere arrestato o altrimenti privato della libertà personale, o mantenuto in detenzione, salvo che in esecuzione di una sentenza irrevocabile di con danna, ovvero se sia colto nell’atto di commettere un delitto per il quale è previsto l’arresto obbligatorio in aranza."
+    },
+    {
+        "iri": "parlamento",
+        "label": "Parlamento",
+        "span_start": 63,
+        "span_end": 73,
+        "sentence": "Analoga autorizzazione è richiesta per sottoporre i membri del Parlamento ad intercettazioni, in qualsiasi forma, di conversazioni o comunicazioni e a sequestro di corrispondenza."
+    },
+    {
+        "iri": "parlamento",
+        "label": "Parlamento",
+        "span_start": 13,
+        "span_end": 23,
+        "sentence": "I membri del Parlamento ricevono un’indennità stabilita dalla legge."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 71,
+        "span_end": 77,
+        "sentence": "L’iniziativa delle leggi appartiene al Governo, a ciascun membro delle Camere e agli organi ed enti ai quali sia conferita da legge costituzionale."
+    },
+    {
+        "iri": "governo",
+        "label": "Governo",
+        "span_start": 39,
+        "span_end": 46,
+        "sentence": "L’iniziativa delle leggi appartiene al Governo, a ciascun membro delle Camere e agli organi ed enti ai quali sia conferita da legge costituzionale."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camera",
+        "span_start": 40,
+        "span_end": 46,
+        "sentence": "Ogni disegno di legge, presentato a una Camera è, secondo le norme del suo regolamento, esaminato da una Commissione e poi dalla Camera stessa, che l’approva articolo per articolo e con votazione finale."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camera",
+        "span_start": 129,
+        "span_end": 135,
+        "sentence": "Ogni disegno di legge, presentato a una Camera è, secondo le norme del suo regolamento, esaminato da una Commissione e poi dalla Camera stessa, che l’approva articolo per articolo e con votazione finale."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camera",
+        "span_start": 106,
+        "span_end": 112,
+        "sentence": "Anche in tali casi, ano al momento della sua approvazione de genitiva, il disegno di legge è rimesso alla Camera, se il Governo o un decimo dei componenti della Camera o un quinto della Commissione richiedono che sia discusso e votato dalla Camera stessa oppure che sia sottoposto alla sua approvazione anale con sole dichiarazioni di voto."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camera",
+        "span_start": 161,
+        "span_end": 167,
+        "sentence": "Anche in tali casi, ano al momento della sua approvazione de genitiva, il disegno di legge è rimesso alla Camera, se il Governo o un decimo dei componenti della Camera o un quinto della Commissione richiedono che sia discusso e votato dalla Camera stessa oppure che sia sottoposto alla sua approvazione anale con sole dichiarazioni di voto."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camera",
+        "span_start": 241,
+        "span_end": 247,
+        "sentence": "Anche in tali casi, ano al momento della sua approvazione de genitiva, il disegno di legge è rimesso alla Camera, se il Governo o un decimo dei componenti della Camera o un quinto della Commissione richiedono che sia discusso e votato dalla Camera stessa oppure che sia sottoposto alla sua approvazione anale con sole dichiarazioni di voto."
+    },
+    {
+        "iri": "governo",
+        "label": "Governo",
+        "span_start": 120,
+        "span_end": 127,
+        "sentence": "Anche in tali casi, ano al momento della sua approvazione de genitiva, il disegno di legge è rimesso alla Camera, se il Governo o un decimo dei componenti della Camera o un quinto della Commissione richiedono che sia discusso e votato dalla Camera stessa oppure che sia sottoposto alla sua approvazione anale con sole dichiarazioni di voto."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 6,
+        "span_end": 12,
+        "sentence": "Se le Camere, ciascuna a maggioranza assoluta dei propri componenti, ne dichiarano l’urgenza, la legge è promulgata nel termine da essa stabilito."
+    },
+    {
+        "iri": "presidente_repubblica",
+        "label": "Presidente della Repubblica",
+        "span_start": 3,
+        "span_end": 30,
+        "sentence": "Il Presidente della Repubblica, prima di promulgare la legge, può con messaggio motivato alle Ca mere chiedere una nuova deliberazione."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 6,
+        "span_end": 12,
+        "sentence": "Se le Camere approvano nuovamente la legge, questa deve essere promulgata."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camera dei Deputati",
+        "span_start": 84,
+        "span_end": 103,
+        "sentence": "Hanno diritto di partecipare al referendum tutti i cittadini chiamati a eleggere la Camera dei deputati."
+    },
+    {
+        "iri": "governo",
+        "label": "Governo",
+        "span_start": 67,
+        "span_end": 74,
+        "sentence": "L’esercizio della funzione legislativa non può es sere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti adeniti."
+    },
+    {
+        "iri": "governo",
+        "label": "Governo",
+        "span_start": 3,
+        "span_end": 10,
+        "sentence": "Il Governo non può, senza delegazione delle Ca mere, emanare decreti che abbiano valore di legge ordinaria."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 207,
+        "span_end": 213,
+        "sentence": "Quando, in casi straordinari di necessità e di urgenza, il Governo adotta, sotto la sua responsabilità, provvedimenti provvisori con forza di legge, deve il giorno stesso presentarli per la conversione alle Camere che, anche se sciolte, sono apposita mente convocate e si riuniscono entro cinque I decreti perdono e acacia sin dall’inizio, se non sono convertiti in legge entro sessanta giorni dalla loro pubblicazione."
+    },
+    {
+        "iri": "governo",
+        "label": "Governo",
+        "span_start": 59,
+        "span_end": 66,
+        "sentence": "Quando, in casi straordinari di necessità e di urgenza, il Governo adotta, sotto la sua responsabilità, provvedimenti provvisori con forza di legge, deve il giorno stesso presentarli per la conversione alle Camere che, anche se sciolte, sono apposita mente convocate e si riuniscono entro cinque I decreti perdono e acacia sin dall’inizio, se non sono convertiti in legge entro sessanta giorni dalla loro pubblicazione."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 3,
+        "span_end": 9,
+        "sentence": "Le Camere possono tuttavia regolare con legge i rapporti giuridici sorti sulla base dei decreti non convertiti."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 3,
+        "span_end": 9,
+        "sentence": "Le Camere deliberano lo stato di guerra e conferiscono al Governo i poteri necessari."
+    },
+    {
+        "iri": "governo",
+        "label": "Governo",
+        "span_start": 58,
+        "span_end": 65,
+        "sentence": "Le Camere deliberano lo stato di guerra e conferiscono al Governo i poteri necessari."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camera",
+        "span_start": 118,
+        "span_end": 124,
+        "sentence": "(*) L’amnistia e l’indulto sono concessi con legge de liberata a maggioranza dei due terzi dei componenti di ciascuna Camera, in ogni suo articolo e nella votazione anale."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 3,
+        "span_end": 9,
+        "sentence": "Le Camere autorizzano con legge la rati ca dei trattati internazionali che sono di natura politica, o prevedono arbitrati o regolamenti giudiziari, o importano variazioni del territorio od oneri alle Bianzè Art."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 131,
+        "span_end": 137,
+        "sentence": "Il ricorso all’indebitamento è consentito solo al ne di considerare gli e betti del ciclo economico e, previa autorizzazione delle Camere adottata a maggioranza assoluta dei rispettivi componenti, al veri scarsi di eventi eccezionali."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 3,
+        "span_end": 9,
+        "sentence": "Le Camere ogni anno approvano con legge il bi lancio e il rendiconto consuntivo presentati dal Governo."
+    },
+    {
+        "iri": "governo",
+        "label": "Governo",
+        "span_start": 95,
+        "span_end": 102,
+        "sentence": "Le Camere ogni anno approvano con legge il bi lancio e il rendiconto consuntivo presentati dal Governo."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camera",
+        "span_start": 305,
+        "span_end": 311,
+        "sentence": "Il contenuto della legge di bilancio, le norme fonda mentali e i criteri volti ad assicurare l’equilibrio tra le entrate e le spese dei bilanci e la sostenibilità del debito del complesso delle pubbliche amministrazioni sono stabiliti con legge approvata a maggioranza assoluta dei componenti di ciascuna Camera, nel rispetto dei principi de uniti con legge costituzionale."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camera",
+        "span_start": 9,
+        "span_end": 15,
+        "sentence": "Ciascuna Camera può disporre inchieste su mate -A tale scopo nomina fra i propri componenti una Commissione formata in modo da rispecchiare la proporzione dei vari gruppi."
+    },
+    {
+        "iri": "presidente_repubblica",
+        "label": "Presidente della Repubblica",
+        "span_start": 13,
+        "span_end": 40,
+        "sentence": "TITOLO II IL PRESIDENTE DELLA REPUBBLICA Art."
+    },
+    {
+        "iri": "presidente_repubblica",
+        "label": "Presidente della Repubblica",
+        "span_start": 3,
+        "span_end": 30,
+        "sentence": "Il Presidente della Repubblica è eletto dal Parla mento in seduta comune dei suoi membri."
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 47,
+        "span_end": 54,
+        "sentence": "All’elezione partecipano tre delegati per ogni Regione eletti dal Consiglio regionale in modo che sia assicurata la rappresentanza delle minoranze."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 66,
+        "span_end": 75,
+        "sentence": "All’elezione partecipano tre delegati per ogni Regione eletti dal Consiglio regionale in modo che sia assicurata la rappresentanza delle minoranze."
+    },
+    {
+        "iri": "presidente_repubblica",
+        "label": "Presidente della Repubblica",
+        "span_start": 15,
+        "span_end": 42,
+        "sentence": "L’elezione del Presidente della Repubblica ha luogo per scrutinio segreto a maggioranza di due terzi dell’assemblea."
+    },
+    {
+        "iri": "presidente_repubblica",
+        "label": "Presidente della Repubblica",
+        "span_start": 18,
+        "span_end": 45,
+        "sentence": "Può essere eletto Presidente della Repubblica ogni cittadino che abbia compiuto cinquanta anni d’età e goda dei diritti civili e politici."
+    },
+    {
+        "iri": "presidente_repubblica",
+        "label": "Presidente della Repubblica",
+        "span_start": 11,
+        "span_end": 38,
+        "sentence": "L’uscio di Presidente della Repubblica è incompatibile con qualsiasi altra carica."
+    },
+    {
+        "iri": "presidente_repubblica",
+        "label": "Presidente della Repubblica",
+        "span_start": 3,
+        "span_end": 30,
+        "sentence": "Il Presidente della Repubblica è eletto per sette anni."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camera dei Deputati",
+        "span_start": 62,
+        "span_end": 81,
+        "sentence": "Trenta giorni prima che scada il termine, il Presidente della Camera dei deputati convoca in seduta comune il Parlamento e i delegati regionali, per eleggere il nuovo Presidente della Repubblica."
+    },
+    {
+        "iri": "presidente_repubblica",
+        "label": "Presidente della Repubblica",
+        "span_start": 167,
+        "span_end": 194,
+        "sentence": "Trenta giorni prima che scada il termine, il Presidente della Camera dei deputati convoca in seduta comune il Parlamento e i delegati regionali, per eleggere il nuovo Presidente della Repubblica."
+    },
+    {
+        "iri": "parlamento",
+        "label": "Parlamento",
+        "span_start": 110,
+        "span_end": 120,
+        "sentence": "Trenta giorni prima che scada il termine, il Presidente della Camera dei deputati convoca in seduta comune il Parlamento e i delegati regionali, per eleggere il nuovo Presidente della Repubblica."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 6,
+        "span_end": 12,
+        "sentence": "Se le Camere sono sciolte, o manca meno di tre mesi alla loro cessazione, la elezione ha luogo entro quindici giorni dalla riunione delle Camere nuove."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 138,
+        "span_end": 144,
+        "sentence": "Se le Camere sono sciolte, o manca meno di tre mesi alla loro cessazione, la elezione ha luogo entro quindici giorni dalla riunione delle Camere nuove."
+    },
+    {
+        "iri": "senato_repubblica",
+        "label": "Senato",
+        "span_start": 124,
+        "span_end": 130,
+        "sentence": "Le funzioni del Presidente della Repubblica, in ogni caso che egli non possa adempierle, sono esercitate dal Presidente del Senato."
+    },
+    {
+        "iri": "presidente_repubblica",
+        "label": "Presidente della Repubblica",
+        "span_start": 16,
+        "span_end": 43,
+        "sentence": "Le funzioni del Presidente della Repubblica, in ogni caso che egli non possa adempierle, sono esercitate dal Presidente del Senato."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camera dei Deputati",
+        "span_start": 114,
+        "span_end": 133,
+        "sentence": "In caso di impedimento permanente o di morte o di dimissioni del Presidente della Repubblica, il Presidente della Camera dei deputati indice la elezione del nuovo Presidente della Repubblica entro quindici giorni, salvo il maggior termine previsto se le Ca mere sono sciolte o manca meno di tre mesi alla loro cessazione."
+    },
+    {
+        "iri": "presidente_repubblica",
+        "label": "Presidente della Repubblica",
+        "span_start": 65,
+        "span_end": 92,
+        "sentence": "In caso di impedimento permanente o di morte o di dimissioni del Presidente della Repubblica, il Presidente della Camera dei deputati indice la elezione del nuovo Presidente della Repubblica entro quindici giorni, salvo il maggior termine previsto se le Ca mere sono sciolte o manca meno di tre mesi alla loro cessazione."
+    },
+    {
+        "iri": "presidente_repubblica",
+        "label": "Presidente della Repubblica",
+        "span_start": 163,
+        "span_end": 190,
+        "sentence": "In caso di impedimento permanente o di morte o di dimissioni del Presidente della Repubblica, il Presidente della Camera dei deputati indice la elezione del nuovo Presidente della Repubblica entro quindici giorni, salvo il maggior termine previsto se le Ca mere sono sciolte o manca meno di tre mesi alla loro cessazione."
+    },
+    {
+        "iri": "presidente_repubblica",
+        "label": "Presidente della Repubblica",
+        "span_start": 3,
+        "span_end": 30,
+        "sentence": "Il Presidente della Repubblica è il capo dello Stato e rappresenta l’unità nazionale."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 26,
+        "span_end": 32,
+        "sentence": "Può inviare messaggi alle Camere."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 31,
+        "span_end": 37,
+        "sentence": "Indice le elezioni delle nuove Camere e ne essa la Autorizza la presentazione alle Camere dei disegni di legge di iniziativa del Governo."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 83,
+        "span_end": 89,
+        "sentence": "Indice le elezioni delle nuove Camere e ne essa la Autorizza la presentazione alle Camere dei disegni di legge di iniziativa del Governo."
+    },
+    {
+        "iri": "governo",
+        "label": "Governo",
+        "span_start": 129,
+        "span_end": 136,
+        "sentence": "Indice le elezioni delle nuove Camere e ne essa la Autorizza la presentazione alle Camere dei disegni di legge di iniziativa del Governo."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 132,
+        "span_end": 138,
+        "sentence": "Accredita e riceve i rappresentanti diplomatici, Ra tinca i trattati internazionali, previa, quando occorra, l’autorizzazione delle Camere."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 46,
+        "span_end": 55,
+        "sentence": "Ha il comando delle Forze armate, presiede il Consiglio supremo di difesa costituito secondo la legge, dichiara lo stato di guerra deliberato dalle Ca mere."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio superiore della magistratura",
+        "span_start": 12,
+        "span_end": 50,
+        "sentence": "Presiede il Consiglio superiore della magistratura."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 77,
+        "span_end": 83,
+        "sentence": "Il Presidente della Repubblica può, sentiti i loro Presidenti, sciogliere le Camere o anche una sola di esse."
+    },
+    {
+        "iri": "presidente_repubblica",
+        "label": "Presidente della Repubblica",
+        "span_start": 3,
+        "span_end": 30,
+        "sentence": "Il Presidente della Repubblica può, sentiti i loro Presidenti, sciogliere le Camere o anche una sola di esse."
+    },
+    {
+        "iri": "presidente_repubblica",
+        "label": "Presidente della Repubblica",
+        "span_start": 16,
+        "span_end": 43,
+        "sentence": "Nessun atto del Presidente della Repubblica è va lido se non è contro armato dai ministri proponenti, che ne assumono la responsabilità."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 115,
+        "span_end": 124,
+        "sentence": "Gli atti che hanno valore legislativo e gli altri indicati dalla legge sono contro armati anche dal Presidente del Consiglio dei ministri."
+    },
+    {
+        "iri": "presidente_repubblica",
+        "label": "Presidente della Repubblica",
+        "span_start": 3,
+        "span_end": 30,
+        "sentence": "Il Presidente della Repubblica non è responsabile degli atti compiuti nell’esercizio delle sue funzioni, tranne che per alto tradimento o per attentato alla Costituzione."
+    },
+    {
+        "iri": "presidente_repubblica",
+        "label": "Presidente della Repubblica",
+        "span_start": 3,
+        "span_end": 30,
+        "sentence": "Il Presidente della Repubblica, prima di assumere le sue funzioni, presta giuramento di fedeltà alla Re pubblica e di osservanza della Costituzione dinanzi TITOLO III IL GOVERNO SEZIONE I – Il Consiglio dei ministri Art."
+    },
+    {
+        "iri": "governo",
+        "label": "Governo",
+        "span_start": 170,
+        "span_end": 177,
+        "sentence": "Il Presidente della Repubblica, prima di assumere le sue funzioni, presta giuramento di fedeltà alla Re pubblica e di osservanza della Costituzione dinanzi TITOLO III IL GOVERNO SEZIONE I – Il Consiglio dei ministri Art."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 193,
+        "span_end": 202,
+        "sentence": "Il Presidente della Repubblica, prima di assumere le sue funzioni, presta giuramento di fedeltà alla Re pubblica e di osservanza della Costituzione dinanzi TITOLO III IL GOVERNO SEZIONE I – Il Consiglio dei ministri Art."
+    },
+    {
+        "iri": "governo",
+        "label": "Governo",
+        "span_start": 3,
+        "span_end": 10,
+        "sentence": "Il Governo della Repubblica è composto del Presi dente del Consiglio e dei ministri, che costituiscono insieme il Consiglio dei ministri."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 59,
+        "span_end": 68,
+        "sentence": "Il Governo della Repubblica è composto del Presi dente del Consiglio e dei ministri, che costituiscono insieme il Consiglio dei ministri."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 114,
+        "span_end": 123,
+        "sentence": "Il Governo della Repubblica è composto del Presi dente del Consiglio e dei ministri, che costituiscono insieme il Consiglio dei ministri."
+    },
+    {
+        "iri": "presidente_repubblica",
+        "label": "Presidente della Repubblica",
+        "span_start": 3,
+        "span_end": 30,
+        "sentence": "Il Presidente della Repubblica nomina il Presidente del Consiglio dei ministri e, su proposta di questo, i ministri."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 56,
+        "span_end": 65,
+        "sentence": "Il Presidente della Repubblica nomina il Presidente del Consiglio dei ministri e, su proposta di questo, i ministri."
+    },
+    {
+        "iri": "presidente_repubblica",
+        "label": "Presidente della Repubblica",
+        "span_start": 121,
+        "span_end": 148,
+        "sentence": "Il Presidente del Consiglio dei ministri e i ministri, prima di assumere le funzioni, prestano giuramento nelle mani del Presidente della Repubblica."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 18,
+        "span_end": 27,
+        "sentence": "Il Presidente del Consiglio dei ministri e i ministri, prima di assumere le funzioni, prestano giuramento nelle mani del Presidente della Repubblica."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 41,
+        "span_end": 47,
+        "sentence": "Il Governo deve avere la Dunia delle due Camere."
+    },
+    {
+        "iri": "governo",
+        "label": "Governo",
+        "span_start": 3,
+        "span_end": 10,
+        "sentence": "Il Governo deve avere la Dunia delle due Camere."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camera",
+        "span_start": 9,
+        "span_end": 15,
+        "sentence": "Ciascuna Camera accorda o revoca la Dunia mediante mozione motivata e votata per appello nominale."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 68,
+        "span_end": 74,
+        "sentence": "Entro dieci giorni dalla sua formazione il Governo si presenta alle Camere per ottenerne la Dunia."
+    },
+    {
+        "iri": "governo",
+        "label": "Governo",
+        "span_start": 43,
+        "span_end": 50,
+        "sentence": "Entro dieci giorni dalla sua formazione il Governo si presenta alle Camere per ottenerne la Dunia."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 41,
+        "span_end": 47,
+        "sentence": "Il voto contrario di una o d’entrambe le Camere su una proposta del Governo non importa obbligo di missioni."
+    },
+    {
+        "iri": "governo",
+        "label": "Governo",
+        "span_start": 68,
+        "span_end": 75,
+        "sentence": "Il voto contrario di una o d’entrambe le Camere su una proposta del Governo non importa obbligo di missioni."
+    },
+    {
+        "iri": "governo",
+        "label": "Governo",
+        "span_start": 74,
+        "span_end": 81,
+        "sentence": "Il Presidente del Consiglio dei ministri dirige la po litica generale del Governo e ne è responsabile."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 18,
+        "span_end": 27,
+        "sentence": "Il Presidente del Consiglio dei ministri dirige la po litica generale del Governo e ne è responsabile."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 59,
+        "span_end": 68,
+        "sentence": "I ministri sono responsabili collegialmente degli atti del Consiglio dei ministri, e individualmente degli atti dei loro dicasteri."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 55,
+        "span_end": 64,
+        "sentence": "La legge provvede all’ordinamento della Presidenza del Consiglio e determina il numero, le attribuzioni e l’organizzazione dei ministeri."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camera dei Deputati",
+        "span_start": 254,
+        "span_end": 273,
+        "sentence": "(*) Il Presidente del Consiglio dei ministri e i mini stri, anche se cessati dalla carica, sono sottoposti, per i reati commessi nell’esercizio delle loro funzioni, alla giurisdizione ordinaria, previa autorizzazione del Se nato della Repubblica o della Camera dei deputati, secondo le norme stabilite con legge costituzionale."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 22,
+        "span_end": 31,
+        "sentence": "(*) Il Presidente del Consiglio dei ministri e i mini stri, anche se cessati dalla carica, sono sottoposti, per i reati commessi nell’esercizio delle loro funzioni, alla giurisdizione ordinaria, previa autorizzazione del Se nato della Repubblica o della Camera dei deputati, secondo le norme stabilite con legge costituzionale."
+    },
+    {
+        "iri": "parlamento",
+        "label": "Parlamento",
+        "span_start": 19,
+        "span_end": 29,
+        "sentence": "Se sono membri del Parlamento, non possono con seguire promozioni se non per anzianità."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 3,
+        "span_end": 12,
+        "sentence": "Il Consiglio nazionale dell’economia e del lavoro è composto, nei modi stabiliti dalla legge, di esperti ed e qualitativa."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 29,
+        "span_end": 35,
+        "sentence": "È organo di consulenza delle Camere e del Governo per le materie e secondo le funzioni che gli sono attribuite dalla legge."
+    },
+    {
+        "iri": "governo",
+        "label": "Governo",
+        "span_start": 42,
+        "span_end": 49,
+        "sentence": "È organo di consulenza delle Camere e del Governo per le materie e secondo le funzioni che gli sono attribuite dalla legge."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 3,
+        "span_end": 12,
+        "sentence": "Il Consiglio di Stato è organo di consulenza giuri dico-amministrativa e di tutela della giustizia nel l’amministrazione."
+    },
+    {
+        "iri": "governo",
+        "label": "Governo",
+        "span_start": 82,
+        "span_end": 89,
+        "sentence": "La Corte dei conti esercita il controllo preventivo di legittimità sugli atti del Governo, e anche quello successivo sulla gestione del bilancio dello Stato."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 28,
+        "span_end": 34,
+        "sentence": "Riferisce direttamente alle Camere sul risultato del riscontro eseguito."
+    },
+    {
+        "iri": "governo",
+        "label": "Governo",
+        "span_start": 85,
+        "span_end": 92,
+        "sentence": "La legge assicura l’indipendenza dei due istituti e dei loro componenti di fronte al Governo."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 3,
+        "span_end": 12,
+        "sentence": "Il Consiglio di Stato e gli altri organi di giustizia amministrativa hanno giurisdizione per la tutela nei con fronti della pubblica amministrazione degli interessi legittimi e, in particolari materie indicate dalla legge, anche dei diritti soggettivi."
+    },
+    {
+        "iri": "presidente_repubblica",
+        "label": "Presidente della Repubblica",
+        "span_start": 108,
+        "span_end": 135,
+        "sentence": "La magistratura costituisce un ordine autonomo e Il Consiglio superiore della magistratura è presieduto dal Presidente della Repubblica."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio superiore della magistratura",
+        "span_start": 52,
+        "span_end": 90,
+        "sentence": "La magistratura costituisce un ordine autonomo e Il Consiglio superiore della magistratura è presieduto dal Presidente della Repubblica."
+    },
+    {
+        "iri": "parlamento",
+        "label": "Parlamento",
+        "span_start": 140,
+        "span_end": 150,
+        "sentence": "Gli altri componenti sono eletti per due terzi da tutti i magistrati ordinari tra gli appartenenti alle varie categorie, e per un terzo dal Parlamento in seduta comune tra professori ordinari di università in materie giuridiche e avvocati dopo quindici anni di esercizio."
+    },
+    {
+        "iri": "parlamento",
+        "label": "Parlamento",
+        "span_start": 69,
+        "span_end": 79,
+        "sentence": "Il Consiglio elegge un vicepresidente fra i componenti designati dal Parlamento."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 3,
+        "span_end": 12,
+        "sentence": "Il Consiglio elegge un vicepresidente fra i componenti designati dal Parlamento."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 22,
+        "span_end": 31,
+        "sentence": "I membri elettivi del Consiglio durano in carica quattro anni e non sono immediatamente rieleggibili."
+    },
+    {
+        "iri": "parlamento",
+        "label": "Parlamento",
+        "span_start": 94,
+        "span_end": 104,
+        "sentence": "Non possono, anche sono in carica, essere iscritti negli albi professionali, né far parte del Parlamento o di un Consiglio regionale."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 113,
+        "span_end": 122,
+        "sentence": "Non possono, anche sono in carica, essere iscritti negli albi professionali, né far parte del Parlamento o di un Consiglio regionale."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio superiore della magistratura",
+        "span_start": 12,
+        "span_end": 50,
+        "sentence": "Spettano al Consiglio superiore della magistratura, secondo le norme dell’ordinamento giudiziario, le assunzioni, le assegnazioni e i trasferimenti, le pro mozioni e i provvedimenti disciplinari nei riguardi dei magistrati."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio superiore della magistratura",
+        "span_start": 125,
+        "span_end": 163,
+        "sentence": "La legge sull’ordinamento giudiziario può ammettere la nomina, anche elettiva, di magistrati onorari per Su designazione del Consiglio superiore della magistratura possono essere chiamati all’u CIO di consiglieri di cassazione, per meriti insigni, professori ordinari di università in materie giuridiche e avvocati che abbiano quindici anni d’esercizio e siano iscritti negli albi speciali per le giurisdizioni superiori."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio superiore della magistratura",
+        "span_start": 125,
+        "span_end": 163,
+        "sentence": "Non possono essere dispensati o sospesi dal servizio né destinati ad altre sedi o funzioni se non in seguito a decisione del Consiglio superiore della magistratura, adottata o per i motivi e con le garanzie di difesa stabilite dall’ordinamento giudiziario o con il loro consenso."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio superiore della magistratura",
+        "span_start": 24,
+        "span_end": 62,
+        "sentence": "Ferme le competenze del Consiglio superiore della magistratura, spettano al Ministro della giustizia l’organizzazione e il funzionamento dei servizi relativi alla giustizia."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 24,
+        "span_end": 33,
+        "sentence": "Contro le decisioni del Consiglio di Stato e della Corte dei conti il ricorso in Cassazione è ammesso per i soli motivi inerenti alla giurisdizione."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 12,
+        "span_end": 19,
+        "sentence": "TITOLO V LE REGIONI, LE PROVINCIE, I COMUNI (*) Art."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 94,
+        "span_end": 101,
+        "sentence": "(**) La Repubblica è costituita dai Comuni, dalle Pro vince, dalle Città metropolitane, dalle Regioni e I Comuni, le Province, le Città metropolitane e le Regioni sono enti autonomi con propri statuti, poteri e funzioni secondo i principi issati dalla Costituzione."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 155,
+        "span_end": 162,
+        "sentence": "(**) La Repubblica è costituita dai Comuni, dalle Pro vince, dalle Città metropolitane, dalle Regioni e I Comuni, le Province, le Città metropolitane e le Regioni sono enti autonomi con propri statuti, poteri e funzioni secondo i principi issati dalla Costituzione."
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 212,
+        "span_end": 219,
+        "sentence": "(**) Il Friuli Venezia Giulia, la Sardegna, la Sicilia, il Trentino-Alto Adige/Sutrio e la Valle d’Aosta/Val Bee d’Aosta dispongono di forme e condizioni particolari di autonomia, secondo i rispettivi statuti La Regione Trentino-Alto Adige/Sutrio è costituita dalle Province autonome di Trento e di Bolzano."
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 352,
+        "span_end": 359,
+        "sentence": "Ulteriori forme e condizioni particolari di autonomia, concernenti le materie di cui al terzo comma dell’articolo 117 e le materie indicate dal secondo comma del medesimo articolo alle lettere l), limitata mente all’organizzazione della giustizia di pace, n) e s), possono essere attribuite ad altre Regioni, con legge dello Stato, su iniziativa della Regione interessata, sentiti gli enti locali, nel rispetto dei principi di cui all’articolo 119."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 300,
+        "span_end": 307,
+        "sentence": "Ulteriori forme e condizioni particolari di autonomia, concernenti le materie di cui al terzo comma dell’articolo 117 e le materie indicate dal secondo comma del medesimo articolo alle lettere l), limitata mente all’organizzazione della giustizia di pace, n) e s), possono essere attribuite ad altre Regioni, con legge dello Stato, su iniziativa della Regione interessata, sentiti gli enti locali, nel rispetto dei principi di cui all’articolo 119."
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 113,
+        "span_end": 120,
+        "sentence": "La legge è approvata dalle Ca mere a maggioranza assoluta dei componenti, sulla base di intesa fra lo Stato e la Regione interessata."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 136,
+        "span_end": 143,
+        "sentence": "n. 87 del 14 aprile 1989); legge costituzionale 31 gennaio 2001, n. 2 «Disposizioni concernenti l’elezione diretta dei presidenti delle regioni a statuto speciale e delle province autonome di Trento e di Bolzano» (Gaza."
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 127,
+        "span_end": 134,
+        "sentence": "n. 26 del 1º febbraio 2001); legge costituzionale 7 febbraio 2013, n. 1 «Modi ca dell’articolo 13 dello Statuto speciale della regione Friuli-Venezia Giulia, di cui alla legge costituzionale 31 gennaio 1963, n. 1» (Gaza."
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 117,
+        "span_end": 124,
+        "sentence": "n. 40 del 16 febbraio 2013); legge costituzionale 7 febbraio 2013, n. 2 «Modi che all’articolo 3 dello Statuto della Regione siciliana, in materia di riduzione dei deputati dell’Assemblea regionale siciliana."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 244,
+        "span_end": 253,
+        "sentence": "n. 41 del 18 febbraio 2013); legge costituzionale 7 febbraio 2013, n. 3 «Modi ca degli articoli 15 e 16 dello Statuto speciale per la Sardegna, di cui alla legge costituzionale 26 febbraio 1948, n. 3, in materia di composizione ed elezione del Consiglio regionale» (Gaza."
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 109,
+        "span_end": 116,
+        "sentence": "n. 50 del 28 febbraio 2013); legge costituzionale 28 luglio 2016, n. 1 «Modi che allo Statuto speciale della regione Friuli-Venezia Giulia, di cui alla legge costituzionale 31 gennaio 1963, n. 1, in materia di enti locali, di elettorato passivo alle elezioni regionali e di iniziativa legislativa popolare» (Gaza."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 60,
+        "span_end": 67,
+        "sentence": "(*) La potestà legislativa è esercitata dallo Stato e dalle Regioni nel rispetto della Costituzione, nonché dei vincoli derivanti dall’ordinamento comunitario e dagli obblighi internazionali."
+    },
+    {
+        "iri": "governo",
+        "label": "Governo",
+        "span_start": 1267,
+        "span_end": 1274,
+        "sentence": "Lo Stato ha legislazione esclusiva nelle seguenti materie: a) politica estera e rapporti internazionali dello Stato; rapporti dello Stato con l’Unione europea; diritto di asilo e condizione giuridica dei cittadini di Stati non appartenenti all’Unione europea; b) immigrazione; c) rapporti tra la Repubblica e le confessioni religiose; d) difesa e Forze armate; sicurezza dello Stato; armi, munizioni ed esplosivi; e) moneta, tutela del risparmio e mercati finanziari; tutela della concorrenza; sistema valutario; sistema tributario e contabile dello Stato; armonizzazione dei bilanci pubblici; perequazione delle risorse finanziarie; f) organi dello Stato e relative leggi elettorali; referendum statali; elezione del Parlamento europeo; g) ordinamento e organizzazione amministrativa dello Stato e degli enti pubblici nazionali; h) ordine pubblico e sicurezza, a esclusione i) cittadinanza, stato civile e anatra ﬁ; l) giurisdizione e norme processuali; ordina mento civile e penale; giustizia amministrativa; m) determinazione dei livelli essenziali delle prestazioni concernenti i diritti civili e sociali che devono essere garantiti su tutto il territorio nazionale; n) norme generali sull’istruzione; o) previdenza sociale; p) legislazione elettorale, organi di governo e funzioni fondamentali di Comuni, Province e Città metropolitane; q) dogane, protezione dei con ani nazionali e pro alassi internazionale; r) pesi, misure e determinazione del tempo; co ordinamento informativo statistico e informatico dei dati dell’amministrazione statale, regionale e locale; opere dell’ingegno; s) tutela dell’ambiente, dell’ecosistema e dei beni culturali."
+    },
+    {
+        "iri": "parlamento",
+        "label": "Parlamento",
+        "span_start": 718,
+        "span_end": 728,
+        "sentence": "Lo Stato ha legislazione esclusiva nelle seguenti materie: a) politica estera e rapporti internazionali dello Stato; rapporti dello Stato con l’Unione europea; diritto di asilo e condizione giuridica dei cittadini di Stati non appartenenti all’Unione europea; b) immigrazione; c) rapporti tra la Repubblica e le confessioni religiose; d) difesa e Forze armate; sicurezza dello Stato; armi, munizioni ed esplosivi; e) moneta, tutela del risparmio e mercati finanziari; tutela della concorrenza; sistema valutario; sistema tributario e contabile dello Stato; armonizzazione dei bilanci pubblici; perequazione delle risorse finanziarie; f) organi dello Stato e relative leggi elettorali; referendum statali; elezione del Parlamento europeo; g) ordinamento e organizzazione amministrativa dello Stato e degli enti pubblici nazionali; h) ordine pubblico e sicurezza, a esclusione i) cittadinanza, stato civile e anatra ﬁ; l) giurisdizione e norme processuali; ordina mento civile e penale; giustizia amministrativa; m) determinazione dei livelli essenziali delle prestazioni concernenti i diritti civili e sociali che devono essere garantiti su tutto il territorio nazionale; n) norme generali sull’istruzione; o) previdenza sociale; p) legislazione elettorale, organi di governo e funzioni fondamentali di Comuni, Province e Città metropolitane; q) dogane, protezione dei con ani nazionali e pro alassi internazionale; r) pesi, misure e determinazione del tempo; co ordinamento informativo statistico e informatico dei dati dell’amministrazione statale, regionale e locale; opere dell’ingegno; s) tutela dell’ambiente, dell’ecosistema e dei beni culturali."
+    },
+    {
+        "iri": "governo",
+        "label": "Governo",
+        "span_start": 482,
+        "span_end": 489,
+        "sentence": "Sono materie di legislazione concorrente quelle relative a: rapporti internazionali e con l’Unione europea delle Regioni; commercio con l’estero; tutela e sicurezza del lavoro; istruzione, salva l’autonomia delle istituzioni scolastiche e con esclusione della istruzione e della formazione professionale; professioni; ricerca scienti ca e tecnologica e sostegno al l’innovazione per i settori produttivi; tutela della salute; alimentazione; ordinamento sportivo; protezione civile; governo del territorio; porti e aeroporti civili; grandi reti di trasporto e di navigazione; ordinamento della comunicazione; produzione, trasporto complementare e integrativa; coordinamento della Nanda pubblica e del sistema tributario; valorizzazione dei beni culturali e ambientali e promozione e organizzazione di attività culturali; casse di risparmio, casse rurali, aziende di credito a carattere regionale; enti di credito fondiario e agrario a carattere regionale."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 113,
+        "span_end": 120,
+        "sentence": "Sono materie di legislazione concorrente quelle relative a: rapporti internazionali e con l’Unione europea delle Regioni; commercio con l’estero; tutela e sicurezza del lavoro; istruzione, salva l’autonomia delle istituzioni scolastiche e con esclusione della istruzione e della formazione professionale; professioni; ricerca scienti ca e tecnologica e sostegno al l’innovazione per i settori produttivi; tutela della salute; alimentazione; ordinamento sportivo; protezione civile; governo del territorio; porti e aeroporti civili; grandi reti di trasporto e di navigazione; ordinamento della comunicazione; produzione, trasporto complementare e integrativa; coordinamento della Nanda pubblica e del sistema tributario; valorizzazione dei beni culturali e ambientali e promozione e organizzazione di attività culturali; casse di risparmio, casse rurali, aziende di credito a carattere regionale; enti di credito fondiario e agrario a carattere regionale."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 54,
+        "span_end": 61,
+        "sentence": "Nelle materie di legislazione concorrente spetta alle Regioni la potestà legislativa, salvo che per la determinazione dei principi fondamentali, riservata alla legislazione dello Stato."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 12,
+        "span_end": 19,
+        "sentence": "Spetta alle Regioni la potestà legislativa in riferimento a ogni materia non espressamente riservata alla legislazione dello Stato."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 3,
+        "span_end": 10,
+        "sentence": "Le Regioni e le Province autonome di Trento e di Bolzano, nelle materie di loro competenza, partecipano alle decisioni dirette alla formazione degli atti normativi comunitari e provvedono all’attuazione e all’esecuzione degli accordi internazionali e degli atti dell’Unione europea, nel rispetto delle norme di procedura stabilite da legge dello Stato, che disciplina le modalità di esercizio del potere sostitutivo in caso di inadempienza."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 102,
+        "span_end": 109,
+        "sentence": "La potestà regolamentare spetta allo Stato nelle materie di legislazione esclusiva, salva delega alle Regioni."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 37,
+        "span_end": 44,
+        "sentence": "La potestà regolamentare spetta alle Regioni in ogni altra materia."
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 248,
+        "span_end": 255,
+        "sentence": "Le leggi regionali rimuovono ogni ostacolo che impedisce la piena parità degli uomini e delle donne nella vita sociale, culturale ed economica e promuovono la parità di accesso tra donne e uomini alle ca Alà legge regionale rati ca le intese della Regione con altre Regioni per il migliore esercizio delle proprie funzioni, anche con individuazione di organi comuni."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 266,
+        "span_end": 273,
+        "sentence": "Le leggi regionali rimuovono ogni ostacolo che impedisce la piena parità degli uomini e delle donne nella vita sociale, culturale ed economica e promuovono la parità di accesso tra donne e uomini alle ca Alà legge regionale rati ca le intese della Regione con altre Regioni per il migliore esercizio delle proprie funzioni, anche con individuazione di organi comuni."
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 35,
+        "span_end": 42,
+        "sentence": "Nelle materie di sua competenza la Regione può concludere accordi con Stati e intese con enti territoriali interni ad altro Stato, nei casi e con le forme disciplinati da leggi dello Stato."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 155,
+        "span_end": 162,
+        "sentence": "(*) Le funzioni amministrative sono attribuite ai Comuni salvo che, per assicurarne l’esercizio unitario, siano conferite a Province, Città metropolitane, Regioni e Stato, sulla base dei principi di sussidiarietà, differenziazione e adeguatezza."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 63,
+        "span_end": 70,
+        "sentence": "La legge statale disciplina forme di coordinamento fra Stato e Regioni nelle materie di cui alle lettere b) e h) del secondo comma dell’articolo 117, e disciplina inoltre forme di intesa e coordinamento nella materia della tutela dei beni culturali."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 7,
+        "span_end": 14,
+        "sentence": "Stato, Regioni, Città metropolitane, Province e Comuni favoriscono l’autonoma iniziativa dei cittadini, singoli e associati, per lo svolgimento di attività di interesse generale, sulla base del principio di Susi art."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 55,
+        "span_end": 62,
+        "sentence": "(*) I Comuni, le Province, le Città metropolitane e le Regioni hanno autonomia finanziaria di entrata e di spesa, nel rispetto dell’equilibrio dei relativi bilanci, e concorrono ad assicurare l’osservanza dei vincoli economici e finanziari derivanti dal l’ordinamento dell’Unione europea."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 51,
+        "span_end": 58,
+        "sentence": "I Comuni, le Province, le Città metropolitane e le Regioni hanno risorse autonome."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 129,
+        "span_end": 136,
+        "sentence": "Le risorse derivanti dalle fonti di cui ai commi precedenti consentono ai Comuni, alle Province, alle Città metropolitane e alle Regioni di enunziare integralmente le funzioni pubbliche loro attribuite."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 341,
+        "span_end": 348,
+        "sentence": "Per promuovere lo sviluppo economico, la coesione e la solidarietà sociale, per rimuovere gli squilibri economici e sociali, per favorire l’e Bettino a scopi diversi dal normale esercizio delle loro funzioni, lo Stato destina risorse aggiuntive ed e Betta interventi speciali in favore di determinati Comuni, Province, Città metropolitane e Regioni."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 51,
+        "span_end": 58,
+        "sentence": "I Comuni, le Province, le Città metropolitane e le Regioni hanno un proprio patrimonio, attribuito se condo i principi generali determinati dalla legge dello Stato."
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 195,
+        "span_end": 202,
+        "sentence": "Possono ricorrere all’indebitamento solo per enunziare spese di investimento, con la contestuale de agnizione di piani di ammortamento e a con dizione che per il complesso degli enti di ciascuna Regione sia rispettato l’equilibrio di bilancio."
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 7,
+        "span_end": 14,
+        "sentence": "(*) La Regione non può istituire dazi di importazione o esportazione o transito tra le Regioni, né adottare provvedimenti che ostacolino in qualsiasi modo la libera circolazione delle persone e delle cose tra le Regioni, né limitare l’esercizio del diritto al lavoro in qualunque parte del territorio nazionale."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 87,
+        "span_end": 94,
+        "sentence": "(*) La Regione non può istituire dazi di importazione o esportazione o transito tra le Regioni, né adottare provvedimenti che ostacolino in qualsiasi modo la libera circolazione delle persone e delle cose tra le Regioni, né limitare l’esercizio del diritto al lavoro in qualunque parte del territorio nazionale."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 212,
+        "span_end": 219,
+        "sentence": "(*) La Regione non può istituire dazi di importazione o esportazione o transito tra le Regioni, né adottare provvedimenti che ostacolino in qualsiasi modo la libera circolazione delle persone e delle cose tra le Regioni, né limitare l’esercizio del diritto al lavoro in qualunque parte del territorio nazionale."
+    },
+    {
+        "iri": "governo",
+        "label": "Governo",
+        "span_start": 3,
+        "span_end": 10,
+        "sentence": "Il Governo può sostituirsi a organi delle Regioni, delle Città metropolitane, delle Province e dei Co stati internazionali o della normativa comunitaria oppure di pericolo grave per l’incolumità e la sicurezza pubblica, ovvero quando lo richiedono la tu tela dell’unità giuridica o dell’unità economica e in particolare la tutela dei livelli essenziali delle prestazioni concernenti i diritti civili e sociali, prescindendo dai confini territoriali dei governi locali."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 42,
+        "span_end": 49,
+        "sentence": "Il Governo può sostituirsi a organi delle Regioni, delle Città metropolitane, delle Province e dei Co stati internazionali o della normativa comunitaria oppure di pericolo grave per l’incolumità e la sicurezza pubblica, ovvero quando lo richiedono la tu tela dell’unità giuridica o dell’unità economica e in particolare la tutela dei livelli essenziali delle prestazioni concernenti i diritti civili e sociali, prescindendo dai confini territoriali dei governi locali."
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 22,
+        "span_end": 29,
+        "sentence": "(*) Sono organi della Regione: il Consiglio regionale, la Giunta e il suo Presidente."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 34,
+        "span_end": 43,
+        "sentence": "(*) Sono organi della Regione: il Consiglio regionale, la Giunta e il suo Presidente."
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 71,
+        "span_end": 78,
+        "sentence": "Il Consiglio regionale esercita le potestà legislative attribuite alla Regione e le altre funzioni conferitegli dalla Costituzione e dalle leggi."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 3,
+        "span_end": 12,
+        "sentence": "Il Consiglio regionale esercita le potestà legislative attribuite alla Regione e le altre funzioni conferitegli dalla Costituzione e dalle leggi."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 32,
+        "span_end": 38,
+        "sentence": "Può fare proposte di legge alle Camere."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 47,
+        "span_end": 54,
+        "sentence": "La Giunta regionale è l’organo esecutivo delle Regioni."
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 42,
+        "span_end": 49,
+        "sentence": "Il Presidente della Giunta rappresenta la Regione; dirige la politica della Giunta e ne è responsabile; promulga le leggi ed emana i regolamenti regionali; dirige le funzioni amministrative delegate dallo Stato alla Regione, conformandosi alle istruzioni del Go art."
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 216,
+        "span_end": 223,
+        "sentence": "Il Presidente della Giunta rappresenta la Regione; dirige la politica della Giunta e ne è responsabile; promulga le leggi ed emana i regolamenti regionali; dirige le funzioni amministrative delegate dallo Stato alla Regione, conformandosi alle istruzioni del Go art."
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 206,
+        "span_end": 213,
+        "sentence": "(*) Il sistema d’elezione e i casi di ineleggibilità e di in compatibilità1 del Presidente e degli altri componenti della Giunta regionale nonché dei consiglieri regionali sono disciplinati con legge della Regione nei li miti dei principi fondamentali stabiliti con legge della Repubblica, che stabilisce anche la durata degli organi elettivi."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 97,
+        "span_end": 103,
+        "sentence": "Nessuno può appartenere contemporaneamente a un Consiglio o a una Giunta regionale e a una delle Camere del Parlamento, a un altro Consiglio o ad altra Giunta regionale, ovvero al Parlamento europeo."
+    },
+    {
+        "iri": "parlamento",
+        "label": "Parlamento",
+        "span_start": 108,
+        "span_end": 118,
+        "sentence": "Nessuno può appartenere contemporaneamente a un Consiglio o a una Giunta regionale e a una delle Camere del Parlamento, a un altro Consiglio o ad altra Giunta regionale, ovvero al Parlamento europeo."
+    },
+    {
+        "iri": "parlamento",
+        "label": "Parlamento",
+        "span_start": 180,
+        "span_end": 190,
+        "sentence": "Nessuno può appartenere contemporaneamente a un Consiglio o a una Giunta regionale e a una delle Camere del Parlamento, a un altro Consiglio o ad altra Giunta regionale, ovvero al Parlamento europeo."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 48,
+        "span_end": 57,
+        "sentence": "Nessuno può appartenere contemporaneamente a un Consiglio o a una Giunta regionale e a una delle Camere del Parlamento, a un altro Consiglio o ad altra Giunta regionale, ovvero al Parlamento europeo."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 131,
+        "span_end": 140,
+        "sentence": "Nessuno può appartenere contemporaneamente a un Consiglio o a una Giunta regionale e a una delle Camere del Parlamento, a un altro Consiglio o ad altra Giunta regionale, ovvero al Parlamento europeo."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 3,
+        "span_end": 12,
+        "sentence": "Il Consiglio elegge tra i suoi componenti un Presi dente e un u CIO di presidenza."
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 14,
+        "span_end": 21,
+        "sentence": "(**) Ciascuna Regione ha uno statuto che, in armonia Erno e i principi fondamentali di organizzazione e funzionamento."
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 120,
+        "span_end": 127,
+        "sentence": "Lo statuto regola l’esercizio del di ritto di iniziativa e del referendum su leggi e provvedimenti amministrativi della Regione e la pubblicazione delle leggi e dei regolamenti regionali."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 40,
+        "span_end": 49,
+        "sentence": "Lo statuto è approvato e modi Acate dal Consiglio regionale con legge approvata a maggioranza assoluta dei suoi componenti, con due deliberazioni successive adottate a intervallo non minore di due mesi."
+    },
+    {
+        "iri": "governo",
+        "label": "Governo",
+        "span_start": 84,
+        "span_end": 91,
+        "sentence": "Per tale legge non è richiesta l’apposizione del visto da parte del Commissario del Governo."
+    },
+    {
+        "iri": "governo",
+        "label": "Governo",
+        "span_start": 3,
+        "span_end": 10,
+        "sentence": "Il Governo della Repubblica può promuovere la questione di legittimità costituzionale sugli statuti regionali dinanzi alla Corte costituzionale entro trenta giorni dalla loro pubblicazione."
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 151,
+        "span_end": 158,
+        "sentence": "Lo statuto è sottoposto a referendum popolare qualora entro tre mesi dalla sua pubblicazione ne faccia richiesta un cinquantesimo degli elettori della Regione o un quinto dei componenti il Consiglio regionale."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 189,
+        "span_end": 198,
+        "sentence": "Lo statuto è sottoposto a referendum popolare qualora entro tre mesi dalla sua pubblicazione ne faccia richiesta un cinquantesimo degli elettori della Regione o un quinto dei componenti il Consiglio regionale."
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 8,
+        "span_end": 15,
+        "sentence": "In ogni Regione, lo statuto disciplina il Consiglio delle autonomie locali, quale organo di consultazione fra la Regione e gli enti locali."
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 113,
+        "span_end": 120,
+        "sentence": "In ogni Regione, lo statuto disciplina il Consiglio delle autonomie locali, quale organo di consultazione fra la Regione e gli enti locali."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 42,
+        "span_end": 51,
+        "sentence": "In ogni Regione, lo statuto disciplina il Consiglio delle autonomie locali, quale organo di consultazione fra la Regione e gli enti locali."
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 10,
+        "span_end": 17,
+        "sentence": "(*) Nella Regione sono istituiti organi di giustizia amministrativa di primo grado, secondo l’ordinamento stabilito da legge della Repubblica."
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 64,
+        "span_end": 71,
+        "sentence": "Possono istituirsi sezioni con sede diversa dal capoluogo della Regione."
+    },
+    {
+        "iri": "presidente_repubblica",
+        "label": "Presidente della Repubblica",
+        "span_start": 30,
+        "span_end": 57,
+        "sentence": "(**) Con decreto motivato del Presidente della Repubblica sono disposti lo scioglimento del Consiglio regionale e la rimozione del Presidente della Giunta che abbiano compiuto atti contrari alla Costituzione o gravi violazioni di legge."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 92,
+        "span_end": 101,
+        "sentence": "(**) Con decreto motivato del Presidente della Repubblica sono disposti lo scioglimento del Consiglio regionale e la rimozione del Presidente della Giunta che abbiano compiuto atti contrari alla Costituzione o gravi violazioni di legge."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 9,
+        "span_end": 18,
+        "sentence": "(***) Il Consiglio regionale può esprimere la s Dunia nei suoi componenti e approvata per appello nominale a maggioranza assoluta dei componenti."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 279,
+        "span_end": 288,
+        "sentence": "L’approvazione della mozione di s Dunia nei con fronti del Presidente della Giunta eletto a sparagio universale e diretto, nonché la rimozione, l’impedimento permanente, la morte o le dimissioni volontarie dello stesso comportano le dimissioni della Giunta e lo scioglimento del Consiglio."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 107,
+        "span_end": 116,
+        "sentence": "In ogni caso i medesimi e betti conseguono alle dimissioni contestuali della maggioranza dei componenti il Consiglio."
+    },
+    {
+        "iri": "governo",
+        "label": "Governo",
+        "span_start": 7,
+        "span_end": 14,
+        "sentence": "(*) Il Governo, quando ritenga che una legge regionale ecceda la competenza della Regione, può pro muovere la questione di legittimità costituzionale dinanzi alla Corte costituzionale entro sessanta giorni dalla sua pubblicazione."
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 82,
+        "span_end": 89,
+        "sentence": "(*) Il Governo, quando ritenga che una legge regionale ecceda la competenza della Regione, può pro muovere la questione di legittimità costituzionale dinanzi alla Corte costituzionale entro sessanta giorni dalla sua pubblicazione."
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 3,
+        "span_end": 10,
+        "sentence": "La Regione, quando ritenga che una legge o un atto avente valore di legge dello Stato o di un’altra Regione leda la sua sfera di competenza, può promuovere la questione di legittimità costituzionale dinanzi alla Corte costituzionale entro sessanta giorni dalla pubblicazione della legge o dell’atto avente valore di Art."
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 100,
+        "span_end": 107,
+        "sentence": "La Regione, quando ritenga che una legge o un atto avente valore di legge dello Stato o di un’altra Regione leda la sua sfera di competenza, può promuovere la questione di legittimità costituzionale dinanzi alla Corte costituzionale entro sessanta giorni dalla pubblicazione della legge o dell’atto avente valore di Art."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 35,
+        "span_end": 42,
+        "sentence": "(****) Sono costituite le seguenti Regioni: Piemonte; Valle d’Aosta; Lombardia; Trentino-Alto Adige; Veneto; Friuli-Venezia Giulia; Liguria; Emilia-Romagna; Umbria; Marche; Lazio; Abruzzi; Molise; Campania; Puglia; Basilicata; Calabria; Sicilia; Sardegna."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 90,
+        "span_end": 97,
+        "sentence": "(*) Si può con legge costituzionale, sentiti i Consigli regionali, disporre la fusione di Regioni esistenti o la creazione di nuove Regioni con un minimo di un milione d’abitanti, quando ne facciano richiesta tanti Con sigli comunali che rappresentino almeno un terzo delle popolazioni interessate, e la proposta sia approvata con referendum dalla maggioranza delle popolazioni stesse."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 132,
+        "span_end": 139,
+        "sentence": "(*) Si può con legge costituzionale, sentiti i Consigli regionali, disporre la fusione di Regioni esistenti o la creazione di nuove Regioni con un minimo di un milione d’abitanti, quando ne facciano richiesta tanti Con sigli comunali che rappresentino almeno un terzo delle popolazioni interessate, e la proposta sia approvata con referendum dalla maggioranza delle popolazioni stesse."
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 100,
+        "span_end": 107,
+        "sentence": "Il mutamento delle circoscrizioni provinciali e la istituzione di nuove Provincie nell’ambito d’una Regione sono stabiliti con leggi della Repubblica, suini ziativa dei Comuni, sentita la stessa Regione."
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 195,
+        "span_end": 202,
+        "sentence": "Il mutamento delle circoscrizioni provinciali e la istituzione di nuove Provincie nell’ambito d’una Regione sono stabiliti con leggi della Repubblica, suini ziativa dei Comuni, sentita la stessa Regione."
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 3,
+        "span_end": 10,
+        "sentence": "La Regione, sentite le popolazioni interessate, può con sue leggi istituire nel proprio territorio nuovi Comuni e modi care le loro circoscrizioni e denominazioni."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 166,
+        "span_end": 173,
+        "sentence": "(*) La Corte costituzionale giudica: sulle controversie relative alla legittimità costituzionale delle leggi e degli atti, aventi forza di legge, dello Stato e delle Regioni; sui con Titti di attribuzione tra i poteri dello Stato e su quelli tra lo Stato e le Regioni, e tra le Regioni; sulle accuse promosse contro il Presidente della Art."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 260,
+        "span_end": 267,
+        "sentence": "(*) La Corte costituzionale giudica: sulle controversie relative alla legittimità costituzionale delle leggi e degli atti, aventi forza di legge, dello Stato e delle Regioni; sui con Titti di attribuzione tra i poteri dello Stato e su quelli tra lo Stato e le Regioni, e tra le Regioni; sulle accuse promosse contro il Presidente della Art."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 278,
+        "span_end": 285,
+        "sentence": "(*) La Corte costituzionale giudica: sulle controversie relative alla legittimità costituzionale delle leggi e degli atti, aventi forza di legge, dello Stato e delle Regioni; sui con Titti di attribuzione tra i poteri dello Stato e su quelli tra lo Stato e le Regioni, e tra le Regioni; sulle accuse promosse contro il Presidente della Art."
+    },
+    {
+        "iri": "parlamento",
+        "label": "Parlamento",
+        "span_start": 132,
+        "span_end": 142,
+        "sentence": "(*) La Corte costituzionale è composta di quindici giudici nominati per un terzo dal Presidente della Re pubblica, per un terzo dal Parlamento in seduta comune e per un terzo dalle supreme magistrature ordinaria e amministrative."
+    },
+    {
+        "iri": "parlamento",
+        "label": "Parlamento",
+        "span_start": 225,
+        "span_end": 235,
+        "sentence": "Nei giudizi d’accusa contro il Presidente della Re pubblica intervengono, oltre i giudici ordinari della Corte, sedici membri tratti ha sorte da un elenco di cittadini aventi i requisiti per l’eleggibilità a senatore, che il Parlamento compila ogni nove anni mediante elezione con le stesse modalità stabilite per la nomina dei giudici ordinari."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 56,
+        "span_end": 62,
+        "sentence": "La decisione della Corte è pubblicata e comunicata alle Camere e ai Consigli regionali interessati, a anche, ove lo ritengano necessario, provvedano nelle forme costituzionali."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camera",
+        "span_start": 244,
+        "span_end": 250,
+        "sentence": "Le leggi di revisione della Costituzione e le altre leggi costituzionali sono adottate da ciascuna Ca mera con due successive deliberazioni a intervallo non minore di tre mesi, e sono approvate a maggioranza assoluta dei componenti di ciascuna Camera nella seconda votazione."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camera",
+        "span_start": 151,
+        "span_end": 157,
+        "sentence": "Le leggi stesse sono sottoposte a referendum popolare quando, entro tre mesi dalla loro pubblicazione, ne facciano domanda un quinto dei membri di una Camera o cinquecentomila elettori o cinque Consigli regionali."
+    },
+    {
+        "iri": "presidente_repubblica",
+        "label": "Presidente della Repubblica",
+        "span_start": 189,
+        "span_end": 216,
+        "sentence": "La forma repubblicana non può essere oggetto di DISPOSIZIONI TRANSITORIE E FINALI I.  Con l’entrata in vigore della Costituzione il Capo provvisorio dello Stato esercita le attribuzioni di Presidente della Repubblica e ne assume il titolo."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 167,
+        "span_end": 173,
+        "sentence": "Se alla data della elezione del Presidente della Re pubblica non sono costituiti tutti i Consigli regionali, partecipano alla elezione soltanto i componenti delle due Camere."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camera dei Deputati",
+        "span_start": 468,
+        "span_end": 487,
+        "sentence": "Per la prima composizione del Senato della Repubblica sono nominati senatori, con decreto del Presi dente della Repubblica, i deputati dell’Assemblea Costituente che posseggono i requisiti di legge per essere senatori e che: sono stati presidenti del Consiglio dei ministri o di Assemblee legislative; hanno fatto parte del disciolto Senato; hanno avuto almeno tre elezioni, compresa quella all’Assemblea Costituente; sono stati dichiarati decaduti nella seduta della Camera dei deputati del 9 novembre 1926; hanno scontato la pena della reclusione non inferiore a cinque anni in seguito a condanna del tribunale speciale fascista per la difesa dello Stato."
+    },
+    {
+        "iri": "senato_repubblica",
+        "label": "Senato della Repubblica",
+        "span_start": 30,
+        "span_end": 53,
+        "sentence": "Per la prima composizione del Senato della Repubblica sono nominati senatori, con decreto del Presi dente della Repubblica, i deputati dell’Assemblea Costituente che posseggono i requisiti di legge per essere senatori e che: sono stati presidenti del Consiglio dei ministri o di Assemblee legislative; hanno fatto parte del disciolto Senato; hanno avuto almeno tre elezioni, compresa quella all’Assemblea Costituente; sono stati dichiarati decaduti nella seduta della Camera dei deputati del 9 novembre 1926; hanno scontato la pena della reclusione non inferiore a cinque anni in seguito a condanna del tribunale speciale fascista per la difesa dello Stato."
+    },
+    {
+        "iri": "senato_repubblica",
+        "label": "Senato",
+        "span_start": 334,
+        "span_end": 340,
+        "sentence": "Per la prima composizione del Senato della Repubblica sono nominati senatori, con decreto del Presi dente della Repubblica, i deputati dell’Assemblea Costituente che posseggono i requisiti di legge per essere senatori e che: sono stati presidenti del Consiglio dei ministri o di Assemblee legislative; hanno fatto parte del disciolto Senato; hanno avuto almeno tre elezioni, compresa quella all’Assemblea Costituente; sono stati dichiarati decaduti nella seduta della Camera dei deputati del 9 novembre 1926; hanno scontato la pena della reclusione non inferiore a cinque anni in seguito a condanna del tribunale speciale fascista per la difesa dello Stato."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 251,
+        "span_end": 260,
+        "sentence": "Per la prima composizione del Senato della Repubblica sono nominati senatori, con decreto del Presi dente della Repubblica, i deputati dell’Assemblea Costituente che posseggono i requisiti di legge per essere senatori e che: sono stati presidenti del Consiglio dei ministri o di Assemblee legislative; hanno fatto parte del disciolto Senato; hanno avuto almeno tre elezioni, compresa quella all’Assemblea Costituente; sono stati dichiarati decaduti nella seduta della Camera dei deputati del 9 novembre 1926; hanno scontato la pena della reclusione non inferiore a cinque anni in seguito a condanna del tribunale speciale fascista per la difesa dello Stato."
+    },
+    {
+        "iri": "presidente_repubblica",
+        "label": "Presidente della Repubblica",
+        "span_start": 48,
+        "span_end": 75,
+        "sentence": "Sono nominati altresì senatori, con decreto del Presidente della Repubblica, i membri del disciolto Se al diritto di essere nominati senatori si può rinunciare prima della Irma del decreto di nomina."
+    },
+    {
+        "iri": "senato_repubblica",
+        "label": "Senato",
+        "span_start": 26,
+        "span_end": 32,
+        "sentence": "Per la prima elezione del Senato il Molise è considerato come Regione a sé stante, con il numero dei senatori che gli compete in base alla sua popolazione."
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 62,
+        "span_end": 69,
+        "sentence": "Per la prima elezione del Senato il Molise è considerato come Regione a sé stante, con il numero dei senatori che gli compete in base alla sua popolazione."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 205,
+        "span_end": 211,
+        "sentence": "V. La disposizione dell’articolo 80 della Costituzione, per quanto concerne i trattati internazionali che importano oneri alle finanze o modificazioni di legge, ha effetto dalla data di convocazione delle Camere."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 175,
+        "span_end": 184,
+        "sentence": "Entro cinque anni dall’entrata in vigore della Costituzione si procede alla revisione degli organi speciali di giurisdizione attualmente esistenti, salvo le giurisdizioni del Consiglio di Stato, della Corte dei conti e dei tribunali militari."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 129,
+        "span_end": 136,
+        "sentence": "Leggi della Repubblica regolano per ogni ramo della pubblica amministrazione il passaggio delle funzioni statali attribuite alle Regioni."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 216,
+        "span_end": 223,
+        "sentence": "Fino a quando non sia provveduto al riordinamento e alla distribuzione delle funzioni amministrative fra gli enti locali restano alle Provincie e ai Comuni le funzioni che esercitano attualmente e le altre di cui le Regioni deleghino loro l’esercizio."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 50,
+        "span_end": 57,
+        "sentence": "Leggi della Repubblica regolano il passaggio alle Regioni di funzionari e dipendenti dello Stato, anche delle amministrazioni centrali, che sia reso necessario dal nuovo ordinamento."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 35,
+        "span_end": 42,
+        "sentence": "Per la formazione dei loro usci le Regioni devono, tranne che in casi di necessità, trarre il proprio personale da quello dello IX."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 176,
+        "span_end": 183,
+        "sentence": "La Repubblica, entro tre anni dall’entrata in vigore della Costituzione, adegua le sue leggi alle esigenze delle autonomie locali e alla competenza legislativa attribuita alle Regioni."
+    },
+    {
+        "iri": "regione",
+        "label": "Regione",
+        "span_start": 9,
+        "span_end": 16,
+        "sentence": "X.  Alla Regione del Friuli-Venezia Giulia, di cui all’articolo 116, si applicano provvisoriamente le norme generali del Titolo V della parte seconda, ferma re stando la tutela delle minoranze linguistiche in conformità con l’articolo 6."
+    },
+    {
+        "iri": "regione",
+        "label": "Regioni",
+        "span_start": 113,
+        "span_end": 120,
+        "sentence": "Fino a cinque anni dall’entrata in vigore della Costituzione si possono, con leggi costituzionali, formare altre Regioni, a modi azione dell’elenco di cui all’articolo 131, anche senza il concorso delle condizioni richieste dal primo comma dell’articolo 132, fermo rimanendo tuttavia l’obbligo di sentire le popolazioni interessate."
+    },
+    {
+        "iri": "senato_repubblica",
+        "label": "Senato della Repubblica",
+        "span_start": 132,
+        "span_end": 155,
+        "sentence": "L’Assemblea Costituente sarà convocata dal suo Presidente per deliberare, entro il 31 gennaio 1948, sulla legge per la elezione del Senato della Repubblica, sugli statuti regionali speciali e sulla legge per la stampa."
+    },
+    {
+        "iri": "camera_deputati",
+        "label": "Camere",
+        "span_start": 42,
+        "span_end": 48,
+        "sentence": "Fino al giorno delle elezioni delle nuove Camere, l’Assemblea Costituente può essere convocata, quando vi sia necessità di deliberare nelle materie attribuite alla sua competenza dagli articoli 2, primo e secondo comma, e 3, comma primo e secondo, del decreto legislativo 16 marzo 1946, n. 98."
+    },
+    {
+        "iri": "governo",
+        "label": "Governo",
+        "span_start": 31,
+        "span_end": 38,
+        "sentence": "Quelle legislative rinviano al Governo i di segni di legge, a esse trasmessi, con eventuali osservazioni e proposte di emendamenti."
+    },
+    {
+        "iri": "governo",
+        "label": "Governo",
+        "span_start": 33,
+        "span_end": 40,
+        "sentence": "I deputati possono presentare al Governo interrogazioni con richiesta di risposta scritta."
+    },
+    {
+        "iri": "governo",
+        "label": "Governo",
+        "span_start": 92,
+        "span_end": 99,
+        "sentence": "L’Assemblea Costituente, agli e betti di cui al se suo Presidente su richiesta motivata del Governo o di almeno duecento deputati."
+    },
+    {
+        "iri": "consiglio_superiore_magistratura",
+        "label": "Consiglio",
+        "span_start": 125,
+        "span_end": 134,
+        "sentence": "Data a Roma, addì 27 dicembre 1947 ENRICO DE NICOLA CONTROFIRMANO Il Presidente Il Presidente dell’Assemblea Costituente del Consiglio dei ministri UMBERTO TERRACINI ALCIDE DE GASPERI V. Il Guardasigilli"
+    }
+]
